@@ -1,0 +1,1 @@
+json-server -w server.json -p 3001 -d 500
